@@ -42,6 +42,33 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.33</version>
         </dependency>
+<!-- Cloudinary -->
+<dependency>
+    <groupId>com.cloudinary</groupId>
+    <artifactId>cloudinary-http44</artifactId>
+    <version>1.32.0</version>
+</dependency>
+
+<!-- OpenHTMLToPDF Core -->
+<dependency>
+    <groupId>com.openhtmltopdf</groupId>
+    <artifactId>openhtmltopdf-core</artifactId>
+    <version>1.0.10</version>
+</dependency>
+
+<!-- OpenHTMLToPDF PDFBox renderer -->
+<dependency>
+    <groupId>com.openhtmltopdf</groupId>
+    <artifactId>openhtmltopdf-pdfbox</artifactId>
+    <version>1.0.10</version>
+</dependency>
+
+<!-- Optional: Fonts support -->
+<dependency>
+    <groupId>com.openhtmltopdf</groupId>
+    <artifactId>openhtmltopdf-slf4j</artifactId>
+    <version>1.0.10</version>
+</dependency>
 
         <!-- JSP Support -->
         <dependency>
