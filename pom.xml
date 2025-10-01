@@ -23,8 +23,6 @@
         <java.version>17</java.version>
     </properties>
 
-    <packaging>war</packaging>
-
     <dependencies>
         <!-- Spring Web -->
         <dependency>
